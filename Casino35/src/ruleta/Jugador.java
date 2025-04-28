@@ -5,7 +5,7 @@ public class Jugador {
 	private String NOMBRE;
 	private static float credito;
 	
-	public Jugador(String NOMBRE, float credito) {
+	public jugador(String NOMBRE, float credito) {
 		this.NOMBRE = NOMBRE;
 		this.credito = credito;
 	}
