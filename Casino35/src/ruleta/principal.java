@@ -25,7 +25,7 @@ public class principal {
 			}
 		}
 		
-		Jugador Jugador = new Jugador(NOMBRE, credito);
+		Jugador jugador = new Jugador(NOMBRE, credito);
 		JuegoRuleta juego = new JuegoRuleta();
 	
 		do {
